@@ -18,8 +18,10 @@
 # Installation 
 
 `pkg install git`
+
 `pkg install python`
-`git clone https://github.com/esfelurm/hashing.git
+
+`git clone https://github.com/esfelurm/hashing.git`
 
 `cd hashing`
 
